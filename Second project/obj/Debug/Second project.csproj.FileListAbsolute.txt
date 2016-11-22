@@ -1,0 +1,30 @@
+D:\c代码\Second project\Second project\obj\Debug\Second project.csprojResolveAssemblyReference.cache
+D:\c代码\Second project\Second project\obj\Debug\Second_project.Form1.resources
+D:\c代码\Second project\Second project\obj\Debug\Second_project.Properties.Resources.resources
+D:\c代码\Second project\Second project\obj\Debug\Second project.csproj.GenerateResource.Cache
+D:\c代码\Second project\Second project\bin\Debug\Second project.exe
+D:\c代码\Second project\Second project\bin\Debug\Second project.pdb
+D:\c代码\Second project\Second project\obj\Debug\Second project.exe
+D:\c代码\Second project\Second project\obj\Debug\Second project.pdb
+D:\c代码\Second project\Second project\obj\Debug\Second_project.AddBook.resources
+D:\c代码\Second project\Second project\obj\Debug\Second_project.LoginWin.resources
+D:\c代码\Second project\Second project\obj\Debug\Second_project.Updatebook.resources
+D:\c代码\Second project\Second project\obj\Debug\Second_project.UpdateAc.resources
+D:\c代码\Second project\Second project\obj\Debug\Second_project.UpdataPassword.resources
+D:\c代码\Second project\Second project\obj\Debug\Second_project.Register.resources
+D:\c代码\Second project\Second project\obj\Debug\Second_project.ChangeNum.resources
+F:\学习\c代码\c代码\Second project\Second project\obj\Debug\Second project.exe
+F:\学习\c代码\c代码\Second project\Second project\obj\Debug\Second project.pdb
+F:\学习\c代码\c代码\Second project\Second project\bin\Debug\Second project.exe
+F:\学习\c代码\c代码\Second project\Second project\bin\Debug\Second project.pdb
+F:\学习\c代码\c代码\Second project\Second project\obj\Debug\Second project.csprojResolveAssemblyReference.cache
+F:\学习\c代码\c代码\Second project\Second project\obj\Debug\Second_project.ChangeNum.resources
+F:\学习\c代码\c代码\Second project\Second project\obj\Debug\Second_project.Register.resources
+F:\学习\c代码\c代码\Second project\Second project\obj\Debug\Second_project.Form1.resources
+F:\学习\c代码\c代码\Second project\Second project\obj\Debug\Second_project.Updatebook.resources
+F:\学习\c代码\c代码\Second project\Second project\obj\Debug\Second_project.UpdataPassword.resources
+F:\学习\c代码\c代码\Second project\Second project\obj\Debug\Second_project.UpdateAc.resources
+F:\学习\c代码\c代码\Second project\Second project\obj\Debug\Second_project.LoginWin.resources
+F:\学习\c代码\c代码\Second project\Second project\obj\Debug\Second_project.AddBook.resources
+F:\学习\c代码\c代码\Second project\Second project\obj\Debug\Second_project.Properties.Resources.resources
+F:\学习\c代码\c代码\Second project\Second project\obj\Debug\Second project.csproj.GenerateResource.Cache
